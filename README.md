@@ -39,7 +39,7 @@ jupyter notebook
 ```
 6. Run jupyter files you want
 
-  -drug-prescription.ipynb
+   -drug-prescription.ipynb
   
 7. Deactivate environment (if created and activated before)
 ```
